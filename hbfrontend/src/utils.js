@@ -1,4 +1,4 @@
-const domain = "https://housebooking.ue.r.appspot.com";
+const domain = "https://housebooking-347820.ue.r.appspot.com";
 // const domain = "http://localhost:8080";
 
 export const login = (credential, asHost) => {
