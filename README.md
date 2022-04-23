@@ -21,13 +21,13 @@ https://prod.d5kpl5b8wylbn.amplifyapp.com
 
 ## Code Structure
 
-![code structure](./imgs/code structure.png)
+![code structure](./imgs/codestructure.png)
 
 
 
 ## Data Model
 
-![Data Model](./imgs/Data Model.png)
+![Data Model](./imgs/DataModel.png)
 
 
 
