@@ -14,6 +14,9 @@ Guest:
 - View house information.
 - Reserve or cancel house booking.
 
+## App URL
+
+https://prod.d5kpl5b8wylbn.amplifyapp.com
 
 
 ## Code Structure
