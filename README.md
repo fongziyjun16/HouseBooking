@@ -1,6 +1,6 @@
 # HouseBooking
 
-Welcome to Visit ~~https://dev7952.d3l8693u4pwr9x.amplifyapp.com~~
+Welcome to Visit https://prod.d14thkavefl3pp.amplifyapp.com
 
 ## Description
 
